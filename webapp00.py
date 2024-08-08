@@ -4,4 +4,5 @@ import pandas as pd
 import streamlit as st
 
 st.title("Olá, Lucas e Cremon!")
-st.subrider("2EI-S")
+st.header("2EI-S")
+st.subheader("sesi senai")
